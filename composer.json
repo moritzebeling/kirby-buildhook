@@ -1,0 +1,45 @@
+{
+    "name": "moritzebeling/kirby-buildhook",
+    "description": "Kirby Buildhook Plugin",
+    "version": "0.0.1",
+    "type": "kirby-plugin",
+    "homepage": "https://github.com/moritzebeling/kirby-buildhook",
+    "time": "2023-07-27",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Moritz Ebeling",
+            "homepage": "https://moritzebeling.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/moritzebeling/kirby-buildhook/issues",
+        "source": "https://github.com/moritzebeling/kirby-buildhook",
+        "docs": "https://github.com/moritzebeling/kirby-buildhook"
+    },
+    "funding": [
+        {
+            "type": "paypal",
+            "url": "http://more.moritzebeling.com/support"
+        }
+    ],
+    "require": {
+        "php": ">=7.4.0",
+        "getkirby/composer-installer": "^1.1"
+    },
+    "keywords": [
+        "php",
+        "kirby",
+        "plugin",
+        "kirby-plugin",
+        "kirby-cms",
+        "headless",
+        "cloud",
+        "buildhook",
+        "webhook",
+        "trigger",
+        "netlify",
+        "vercel",
+        "javascript"
+    ]
+}
